@@ -1,8 +1,10 @@
 # Threadform Studio for Windows
 
-[Download Threadform Studio 0.2.0-alpha.3](https://github.com/Beowxlf/threadform-studio-downloads/releases/tag/desktop-v0.2.0-alpha.3)
+[Download Threadform Studio 0.2.0-alpha.5](https://github.com/Beowxlf/threadform-studio-downloads/releases/tag/desktop-v0.2.0-alpha.5)
 
 Download the Windows x64 Setup.exe from the release, run it, then open Threadform Studio from the Start menu. No GitHub account is required.
+
+Version 0.2.0-alpha.5 adds baby blue, sage green and cream colors, faster preview navigation, and loading indicators tied to actual work and downloaded bytes.
 
 ## Updates
 
