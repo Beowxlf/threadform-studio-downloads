@@ -1,10 +1,12 @@
 # Threadform Studio for Windows
 
-[Download Threadform Studio 0.2.0-alpha.5](https://github.com/Beowxlf/threadform-studio-downloads/releases/tag/desktop-v0.2.0-alpha.5)
+[Download Threadform Studio 0.3.0-alpha.1](https://github.com/Beowxlf/threadform-studio-downloads/releases/tag/desktop-v0.3.0-alpha.1)
 
 Download the Windows x64 Setup.exe from the release, run it, then open Threadform Studio from the Start menu. No GitHub account is required.
 
-Version 0.2.0-alpha.5 adds baby blue, sage green and cream colors, faster preview navigation, and loading indicators tied to actual work and downloaded bytes.
+Version 0.3.0-alpha.1 adds independent, draggable patterns on one piece; three mannequin poses for every supported garment; zoom and garment-detail framing; preset and custom color schemes; and color-matched PDF/HTML publications with three mannequin pictures.
+
+The suggested workflow is **Brief > Materials > Shape > Pattern > Preview > Publish**. Every stage stays accessible. The interface keeps its baby blue, sage green and cream colors and loading indicators tied to actual work.
 
 ## Updates
 
@@ -14,4 +16,4 @@ If you have 0.2.0-alpha.1 or earlier, install the new EXE once to switch from th
 
 Design work remains offline. Update checks happen only when requested; there are no automatic installations or project uploads. Source code remains private.
 
-This is an engineering alpha. The updater verifies release signatures; Windows Authenticode publisher signing is not yet configured.
+This is an engineering alpha. Mannequin poses and accessory folds illustrate styling rather than physical fit. Custom dress-form presentation places the first two physical panels; remaining panels stay separate. Patterns need test knitting and technical review. The updater verifies release signatures; Windows Authenticode publisher signing is not yet configured.
